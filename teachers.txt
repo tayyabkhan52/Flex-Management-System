@@ -1,0 +1,6 @@
+Rizwan,Ahmed,Lahore,Male,PHD,12312,12/12/2003,Business,B-1,N/A,N/A,215000
+Huma,Khan,Lahore,Female,PHD,12123123,12/12/2022,Computer Science,CS-1,humak23,humak23,550000
+Ahmad,Ashfaq,Lahore,Male,PHD,12313,12/12/2003,Software Engineering,SE-1,ahmadashfaq23,ahmadashfaq,125000
+Tayyab,Khan,Lahore,Male,Masters,23231123,12/12/2019,Computer Science,CS-1,tayyabk52,tayyab,40000,
+Ali,Ahmed,Islamabad,Male,PHD,2313123,12/12/2015,Software Engineering,SE-1,teacher2,teacher2,32000,
+Amjad,Haider,Lahore,Male,Masters,213123123,10/5/2017,Computer Science,CS-1,amjad.hadier,admjad.teacher,150000,

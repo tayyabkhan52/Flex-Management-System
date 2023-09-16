@@ -1,0 +1,27 @@
+Name: Tayyab
+Courses:
+DLD
+Linear Algebra
+Islamiat
+Attendance:
+5-23-2023 P
+8-12-2023 A
+Marks:
+45
+34
+34
+Grades:
+A+
+B+
+B+
+
+Name: Ahmed
+Courses:
+Applied Physics
+Attendance:
+10-5-2023 P
+Marks:
+54
+Grades:
+B+
+
